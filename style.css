@@ -5,6 +5,10 @@ header img{
     display:flex;
     opacity: 55%;
 }
+.logo{
+    width : 50px
+    height: auto;
+}
 header{
     width: 95% ;
     padding: 2.5%;
