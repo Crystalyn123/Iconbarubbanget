@@ -86,10 +86,6 @@ p{
     text-transform: uppercase;
     filter: drop-shadow(3px 3px 5px rgba(0,0,0,0.1));
 }
-p :hover{
-    transform: translateY(-5px); 
-    background: rgba(94, 29, 29, 0.25);
-}
 .containerAbout{
     max-width: 800px;
     margin: 100px auto;
