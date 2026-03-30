@@ -215,6 +215,7 @@ section.howto{
     display: flex;
     width: 60%;
     margin:auto;
+    padding:20px
 }
 .dokumetasi{
     margin: 20px;
