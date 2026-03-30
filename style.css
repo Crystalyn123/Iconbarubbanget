@@ -105,6 +105,7 @@ p{
     text-align: center;
     position: relative; 
     background: linear-gradient(-45deg, #794a15, #a05b33, #c26b09, #b66407);
+    justify-content: center;
     
 }
 .containerAbout h3 {
@@ -155,6 +156,7 @@ section.profile{
 }
 img{
     width: 100%;
+    justify-content: center;
 }
 .medsos{
     left: 0;
