@@ -154,10 +154,10 @@ section.profile{
     margin: auto;
     text-align: center;
 }
-img{
+    img{
     width: 100%;
     justify-content: center;
-}
+    }
 .medsos{
     left: 0;
     bottom: 0;
